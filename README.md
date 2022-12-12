@@ -17,11 +17,11 @@ $ npm start
 
 - Home page image
 
-> <img src="./img/home_page.png" width="70%">
+> <img src="https://user-images.githubusercontent.com/108933091/207065095-a436f5e1-9642-443b-9901-94430f04b577.png" width="70%">
 
 - Detail page image
 
-> <img src="./img/detail_page.png" width="70%">
+> <img src="https://user-images.githubusercontent.com/108933091/207065458-a0e8ac22-e9c2-482e-9b94-34b0420431ee.png" width="70%">
 
 ## 사용한 기술
 - React
